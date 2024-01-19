@@ -1,15 +1,20 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    './index.html', './src/**/*.{vue,js,ts,jsx,tsx}'
+    './src/**/*.html',
+    './src/**/*.vue',
+    './src/**/*.js',
+    './src/assets/images/**/*',
+    './src/assets/css/**/*.css',  
+    './src/assets/svg/**/*.svg',  
   ],
   theme: {
     container: {
       center: true,
       screens: {
-        sm: '100%',    
+        sm: '100%',
         lg: '960px',
-        xl: '1100px'  
+        xl: '1100px'
       },
     },
     extend: {},
