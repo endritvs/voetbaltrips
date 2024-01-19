@@ -4,7 +4,7 @@ export default {
     './src/**/*.html',
     './src/**/*.vue',
     './src/**/*.js',
-    './src/assets/images/**/*',
+    './src/assets/images/**/*.png',
     './src/assets/css/**/*.css',  
     './src/assets/svg/**/*.svg',  
   ],
