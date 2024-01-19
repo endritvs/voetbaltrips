@@ -8,13 +8,13 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/telephone.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/telephone.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            Telefoon
           </p>
         </div>
         <div class="max-[320px]:w-full">
@@ -28,13 +28,13 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/emai.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/emai.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            E-Mail
           </p>
         </div>
         <div class="max-[320px]:w-full">
@@ -52,18 +52,18 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/insta.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/insta.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            Instagram
           </p>
         </div>
-        <div class="max-[320px]:w-full">
-          <p class="text-[#000] text-[16px] font-normal ">
-            info@voetbaltrips.com
+        <div class="max-[320px]:w-full lg:w-[65%]">
+          <p class="text-[#006FEB] text-[16px] underline font-normal ">
+            @voetbaltrips
           </p>
         </div>
       </div>
@@ -72,18 +72,18 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/fcb.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/fcb.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
             Facebook
           </p>
         </div>
-        <div class="max-[320px]:w-full">
-          <p class="text-[#000] text-[16px] font-normal ">
-            info@voetbaltrips.com
+        <div class="max-[320px]:w-full lg:w-[65%]">
+          <p class="text-[#006FEB] text-[16px] underline font-normal ">
+            Voetbaltrips.com
           </p>
         </div>
       </div>
@@ -96,18 +96,18 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/bag.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/bag.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            KvK-nummer:
           </p>
         </div>
-        <div class="max-[320px]:w-full">
+        <div class="max-[320px]:w-full lg:w-[65%]">
           <p class="text-[#000] text-[16px] font-normal ">
-            info@voetbaltrips.com
+            74415670
           </p>
         </div>
       </div>
@@ -122,12 +122,12 @@
             srcset="../../../assets/svg/tax.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            BTW-nummer
           </p>
         </div>
-        <div class="max-[320px]:w-full">
+        <div class="max-[320px]:w-full lg:w-[65%]">
           <p class="text-[#000] text-[16px] font-normal ">
-            info@voetbaltrips.com
+            NL859888216B01
           </p>
         </div>
       </div>
@@ -137,18 +137,18 @@
       >
         <div class="flex items-center gap-4 w-full">
           <img
-            src="../../../assets/svg/tax.svg"
+            src="../../../assets/svg/location.svg"
             class="w-[24px] h-[24px]"
             alt="tel"
-            srcset="../../../assets/svg/tax.svg"
+            srcset="../../../assets/svg/location.svg"
           />
           <p class="uppercase text-[#006FEB] text-[16px] font-semibold">
-            Facebook
+            Ons adres
           </p>
         </div>
-        <div class="max-[320px]:w-full">
+        <div class="max-[320px]:w-full lg:w-[65%]">
           <p class="text-[#000] text-[16px] font-normal ">
-            info@voetbaltrips.com
+            Bisonspoor 332, 3605JT, Maarssen
           </p>
         </div>
       </div>
