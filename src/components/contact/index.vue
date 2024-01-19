@@ -13,7 +13,7 @@ import Map from "./parts/map.vue";
       <div class="w-full">
         <FormComponent />
       </div>
-      <div class="w-full lg:h-[540px]">
+      <div class="w-full lg:h-[470px]">
         <Infos />
       </div>
     </div>

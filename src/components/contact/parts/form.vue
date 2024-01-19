@@ -1,9 +1,9 @@
 
 <template>
-  <div class="px-4 pt-[24px]">
-    <div class="flex flex-col gap-4">
-      <h2 class="text-[20px] text-[#000] font-medium">Neem contact op</h2>
-      <div class="px-4 py-[24px] border-[1px] rounded-[8px] border-[#EBEBEB]">
+  <div class="px-4 pt-[24px] lg:pt-[40px]">
+    <div class="flex flex-col gap-4 lg:gap-[32px]">
+      <h2 class="text-[20px] text-[#000] font-medium lg:text-[32px]">Neem contact op</h2>
+      <div class="px-4 py-[24px] border-[1px] rounded-[8px] lg:px-[24px] border-[#EBEBEB]">
         <div class="flex flex-col gap-4">
           <div class="flex lg:flex-row flex-col gap-4">
             <InputField
@@ -33,7 +33,7 @@
             <textarea class="p-4 bg-[#FFF] border-[1px] border-[#CBCBCB] rounded-[6px] text-[#CBCBCB] text-[16px] font-normal"
              name="bericht" id="bericht" cols="10" rows="3" placeholder="Bericht"></textarea>
           </div>
-          <button class="flex items-center justify-center lg:w-[35%] lg:mt-[40px] gap-[8px] text-[#fff] text-[16px] bg-[#006FEB] py-[10px] rounded-[25px]">
+          <button class="flex items-center justify-center lg:w-[35%] lg:mt-[24px] gap-[8px] text-[#fff] text-[16px] bg-[#006FEB] py-[10px] rounded-[25px]">
             Versturen <img src="../../../assets/svg/right-arrow.svg" alt="arrow" srcset="../../../assets/svg/right-arrow.svg">
           </button>
         </div>
